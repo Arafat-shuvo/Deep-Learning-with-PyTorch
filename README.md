@@ -1,4 +1,4 @@
-# PyTorch Learning Repository
+# PyTorch Learning Repository 
 ### From Basic to Advanced | Theory, Mathematics & Hands-on Implementation
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)
@@ -363,3 +363,5 @@ By completing this repository, I aim to:
 **Learning by Understanding, Implementing, and Experimenting.**
 
 *This repository is continuously updated as I progress from basic to advanced PyTorch concepts.*
+
+by Arafat Shuvo
